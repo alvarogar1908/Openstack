@@ -1,13 +1,14 @@
-# OpenStack
+# Introducción
 
-OpenStack is a set of software components that provide common services for cloud infrastructure.
+OpenStack es una plataforma de sfotware libre para crear y gestionar infraestructuras de nube 
 
-## Índice
+## Componentes principales
 
-1. Introducción
-2. Componentes principales
-3. Entorno de pruebas
+- Nova: Gestión de máquinas virtuales.
+- Neutron Gestión de redes.
+- Cinder : Almacenamiento de bloques.
+- Swift Almacenamiento de objetos.
 
-## Referencia
+## Entorno de pruebas 
 
-OpenStack
+Se utilizará una máquina virtual LInux para realizar las pruebas
